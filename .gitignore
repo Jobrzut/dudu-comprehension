@@ -1,0 +1,17 @@
+# Python & virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Anki auto-generated runtime & build files
+meta.json
+user_files/
+*.ankiaddon
+*.zip
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
